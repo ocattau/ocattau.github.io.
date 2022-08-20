@@ -36,6 +36,6 @@ protocol [here](https://docs.google.com/document/d/1tnhOlAjTnE3xq_jYPnpyv-GLDOd3
 -I would use a density of ~25,000 to allow for easy viewing under the scope, 5,000 was not dense enough for counts
 |Group #|Regular|Fluorescence|
 |---|---|---|
-|Group A|![]()|![]()|
-|Group B|![]()|![]()|
-|Group C|![]()|![]()| 
+|Group A|![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/control_regular_20k.jpg)|![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/control_20k_green.jpg)|
+|Group B|![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/dextran_20k_regular.jpg)|![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/dextran_20k_embryos_green.jpg)|
+|Group C|![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/mac_control_20k_regular_no_dex.jpg)|![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/mac_control_embryos_20k_green.jpg)| 
