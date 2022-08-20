@@ -18,9 +18,24 @@ Group B: Dextran, same densityes as above, all componenets present (embryos)
 Group C: Mac's Control, fertilized in hatchery style, oocytes with dextran, same densities as above (embryos) 
 
 ### 1 hours post fertilization
+|Group #|Regular|Fluorescence|
+|---|---|---|
+|Group A|![]()|![]()|
+|Group B|![]()|![]()|
+|Group C|![]()|![]()|
 
 ### 24 hours post fertilization (August 19th)
+|Group #|Regular|Fluorescence|
+|---|---|---|
+|Group A|![]()|![]()|
+|Group B|![]()|![]()|
+|Group C|![]()|![]()|
 
 ### 48 hours post fertilization (August 20th)
 -All densities have swimming larvae, no obvious deformities on average
 -I would use a density of ~25,000 to allow for easy viewing under the scope, 5,000 was not dense enough for counts
+|Group #|Regular|Fluorescence|
+|---|---|---|
+|Group A|![]()|![]()|
+|Group B|![]()|![]()|
+|Group C|![]()|![]()|
