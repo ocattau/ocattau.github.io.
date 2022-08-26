@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Molecular Delivery 2
-date: '2022-08-20'
+date: '2022-08-26'
 categories: updates, research, oysters, crispr, dextran
 tags: geoduck, oysters, c.gigas, p.generosa
 ---
