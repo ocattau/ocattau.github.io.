@@ -18,7 +18,7 @@ tags: geoduck, oysters, c.gigas, p.generosa
 ## Trial 1: fertilized eggs + endo-porter at 3 concentrations (2uM/6uM/10uM) + morpholino (1uM) at 10,000 cells/well
 | Concentration | Mortality | Regular | Fluorescence |
 |---|---|---|---|
-|2uM| 95% | ![](https://raw.githubusercontent.com/ocattau/Fluorescent_Photos/main/082522/trial1_regular_2uM.jpg?token=GHSAT0AAAAAABX3HM672I3LJBR4CQ2KDITGYYJHHDA) | ![](https://github.com/ocattau/Fluorescent_Photos/blob/main/082522/trial1_green_2uM.jpg?raw=true) |
+|2uM| 95% | ![](https://raw.githubusercontent.com/ocattau/Fluorescent_Photos/main/082522/trial1_regular_2uM.jpg?token=GHSAT0AAAAAABX3HM672I3LJBR4CQ2KDITGYYJHHDA)| ![](https://github.com/ocattau/Fluorescent_Photos/blob/main/082522/trial1_green_2uM.jpg?raw=true)|
 |6uM| 90% | no photos| no fluorescence|
 |10uM| 95% | no photos | no fluorescence |
 
