@@ -32,10 +32,10 @@ tags: geoduck, oysters, c.gigas, p.generosa
 ## Trial 3: fertilized eggs with dex + endo-porter (2uM) at 10,000 cells/well
 | Regular | Fluorescence | 
 |---|---|
-|![](https://raw.githubusercontent.com/ocattau/Fluorescent_Photos/main/082522/dexfirst_regular_2uM.jpg?token=GHSAT0AAAAAABX3HM67PD546JFUBUXQYBCAYYJHN2A) | ![](https://raw.githubusercontent.com/ocattau/Fluorescent_Photos/main/082522/dexfirst_green_2uM.jpg?token=GHSAT0AAAAAABX3HM66XMQ5EWE2YO7XWOR2YYJHNVQ)|
+|![](https://github.com/ocattau/ocattau.github.io/blob/master/assets/dexfirst_regular_2uM.jpg) | ![](https://github.com/ocattau/ocattau.github.io/blob/master/assets/dexfirst_green_2uM.jpg)|
 
 ## Trial 4: fertilized eggs + endo-porter (2uM) + morpholino (10uM) at 10,000 cells/well
 | Regular | Fluorescence | 
 |---|---|
-|![](https://raw.githubusercontent.com/ocattau/Fluorescent_Photos/main/082522/morpholino_10uM_2uM_regular.jpg?token=GHSAT0AAAAAABX3HM66YQSAOJK5DEB4HMKCYYJHPJA) | ![](https://raw.githubusercontent.com/ocattau/Fluorescent_Photos/main/082522/morpholino_10um_2uM_green.jpg?token=GHSAT0AAAAAABX3HM67XPRXRB77JHYFQR6SYYJHPDQ)|
+|![](https://github.com/ocattau/ocattau.github.io/blob/master/assets/morpholino_10uM_2uM_regular.jpg) | ![](https://github.com/ocattau/ocattau.github.io/blob/master/assets/morpholino_10um_2uM_green.jpg)|
 
