@@ -18,16 +18,16 @@ tags: geoduck, oysters, c.gigas, p.generosa
 ## Trial 1: fertilized eggs + endo-porter at 3 concentrations (2uM/6uM/10uM) + morpholino (1uM) at 10,000 cells/well
 | Concentration | Mortality | Regular | Fluorescence |
 |---|---|---|---|
-|2uM| 95% | ![](https://raw.githubusercontent.com/ocattau/Fluorescent_Photos/main/082522/trial1_regular_2uM.jpg?token=GHSAT0AAAAAABX3HM672I3LJBR4CQ2KDITGYYJHHDA)| ![](https://github.com/ocattau/Fluorescent_Photos/blob/main/082522/trial1_green_2uM.jpg?raw=true)|
+|2uM| 95% | ![](https://github.com/ocattau/ocattau.github.io/blob/master/assets/trial1_regular_2uM.jpg)| ![](https://github.com/ocattau/ocattau.github.io/blob/master/assets/trial1_green_2uM.jpg)|
 |6uM| 90% | no photos| no fluorescence|
 |10uM| 95% | no photos | no fluorescence |
 
 ## Trial 2: fertilized eggs + endo-porter (2uM/6uM/10uM) at 50,000 cells/well
 | Concentration | Mortality | Regular | Fluorescence |
 |---|---|---|---|
-|0.2uM| 100%| ![](https://raw.githubusercontent.com/ocattau/Fluorescent_Photos/main/082522/trial2_regular_2uM.jpg?token=GHSAT0AAAAAABX3HM67L6VRHRN7IDMP6BIIYYJHI7Q) | ![](https://raw.githubusercontent.com/ocattau/Fluorescent_Photos/main/082522/trial2_green_2uM.jpg?token=GHSAT0AAAAAABX3HM66HSTABDGBR7TPRLTEYYJHIWQ) |
-|0.6uM| 100%| ![](https://raw.githubusercontent.com/ocattau/Fluorescent_Photos/main/082522/trial2_regular_6uM.jpg?token=GHSAT0AAAAAABX3HM663NQSL46FDNOCIN6AYYJHJPA) | ![](https://raw.githubusercontent.com/ocattau/Fluorescent_Photos/main/082522/trial2_green_6uM.jpg?token=GHSAT0AAAAAABX3HM66HF7OVIA2JPHRO77YYYJHJKQ) |
-|1.0uM| 100%| ![](https://raw.githubusercontent.com/ocattau/Fluorescent_Photos/main/082522/trial2_regular_10uM.jpg?token=GHSAT0AAAAAABX3HM662IEREJJU4JO63TQ4YYJHKQQ) | ![](https://raw.githubusercontent.com/ocattau/Fluorescent_Photos/main/082522/trial2_green_10uM.jpg?token=GHSAT0AAAAAABX3HM66NHCGN6YMAVLNNBGCYYJHKLQ) |
+|0.2uM| 100%| ![](https://github.com/ocattau/ocattau.github.io/blob/master/assets/trial2_regular_2uM.jpg) | ![](https://github.com/ocattau/ocattau.github.io/blob/master/assets/trial2_green_2uM.jpg) |
+|0.6uM| 100%| ![](https://github.com/ocattau/ocattau.github.io/blob/master/assets/trial2_regular_6uM.jpg) | ![](https://github.com/ocattau/ocattau.github.io/blob/master/assets/trial2_green_6uM.jpg) |
+|1.0uM| 100%| ![](https://github.com/ocattau/ocattau.github.io/blob/master/assets/trial2_regular_10uM.jpg) | ![](https://github.com/ocattau/ocattau.github.io/blob/master/assets/trial2_green_10uM.jpg) |
 
 ## Trial 3: fertilized eggs with dex + endo-porter (2uM) at 10,000 cells/well
 | Regular | Fluorescence | 
