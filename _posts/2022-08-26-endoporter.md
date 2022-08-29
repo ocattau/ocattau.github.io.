@@ -11,9 +11,9 @@ tags: geoduck, oysters, c.gigas, p.generosa
 ## Control: fertilized egs + endo-porter at 3 concentration (2uM/6uM/10uM) at 10,000 cells/well
 | Concentration | Mortality | Regular | Fluorescence |
 |---|---|---|---|
-|2uM| 90% | ![](https://raw.githubusercontent.com/ocattau/Fluorescent_Photos/main/082522/control_regular_2uM%202.jpg?token=GHSAT0AAAAAABX3HM6774XJNRYE4EJFDEXSYYJG3IQ) | ![](https://raw.githubusercontent.com/ocattau/Fluorescent_Photos/main/082522/control_green_2uM_2.jpg?token=GHSAT0AAAAAABX3HM6772BCX6UWWNGGTJPEYYJG33A) |
-|6uM| 100% | ![](https://raw.githubusercontent.com/ocattau/Fluorescent_Photos/main/082522/control_6uM_regular.jpg?token=GHSAT0AAAAAABX3HM67XWFS5ESLHB2GZKYIYYJG5IA) | ![](https://raw.githubusercontent.com/ocattau/Fluorescent_Photos/main/082522/control_6uM_green.jpg?token=GHSAT0AAAAAABX3HM66TBWBYCLDDLKFFXF2YYJG5CQ) |
-|10uM| 100% | ![](https://raw.githubusercontent.com/ocattau/Fluorescent_Photos/main/082522/control_regular_10uM.jpg?token=GHSAT0AAAAAABX3HM67BKU7IUFPNJBXY6VIYYJG7TQ) | ![](https://raw.githubusercontent.com/ocattau/Fluorescent_Photos/main/082522/control_green_10uM.jpg?token=GHSAT0AAAAAABX3HM66I5F6QY7I7NFDXU7IYYJG7RQ) |
+|2uM| 90% | ![](https://github.com/ocattau/ocattau.github.io/blob/master/assets/control_regular_2uM%202.jpg) | ![](https://github.com/ocattau/ocattau.github.io/blob/master/assets/control_green_2uM_2.jpg) |
+|6uM| 100% | ![](https://github.com/ocattau/ocattau.github.io/blob/master/assets/control_6uM_regular.jpg) | ![](https://github.com/ocattau/ocattau.github.io/blob/master/assets/control_6uM_green.jpg) |
+|10uM| 100% | ![](https://github.com/ocattau/ocattau.github.io/blob/master/assets/control_regular_10uM.jpg) | ![](https://github.com/ocattau/ocattau.github.io/blob/master/assets/control_green_10uM.jpg) |
 
 ## Trial 1: fertilized eggs + endo-porter at 3 concentrations (2uM/6uM/10uM) + morpholino (1uM) at 10,000 cells/well
 | Concentration | Mortality | Regular | Fluorescence |
