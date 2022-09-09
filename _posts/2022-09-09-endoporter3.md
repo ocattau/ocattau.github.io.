@@ -11,8 +11,8 @@ tags: geoduck, oysters, c.gigas, p.generosa
 
 - Control: fertilized embryos @ 5,000 cells per well
 - Endo-control: Control + Endoporter at 2uM and 6uM
-- Treatment 1: Morpholino @ 5uM 
-- Treatment 2: Morpholino @ 10uM
+- Treatment 1: Morpholino @ 5uM + Endo-porter @ 2uM and 6uM 
+- Treatment 2: Morpholino @ 10uM + Endo-porter @ 2uM and 6uM 
 - Morpholino-control: Morpholino only @ 5uM and 1uM
 
 
@@ -21,6 +21,9 @@ tags: geoduck, oysters, c.gigas, p.generosa
 |---|---|---|---|---| 
 | Control @ 5,000 cells/well | Great Survival | ![](https://github.com/ocattau/ocattau.github.io/blob/master/assets/090822/control_regular.jpg)| ![](https://github.com/ocattau/ocattau.github.io/blob/master/assets/090822/control_blue.jpg)| ![](https://github.com/ocattau/ocattau.github.io/blob/master/assets/090822/control_green.jpg) |
 | Endo-Control at 2uM |  |![](https://github.com/ocattau/ocattau.github.io/blob/master/assets/090822/endo-control_reg_2uM.jpg)| NA | ![](https://github.com/ocattau/ocattau.github.io/blob/master/assets/090822/endo-control_green_2uM.jpg)|
+| Morpholino-Control at 5uM | | ![]()| ![]()| ![]()|
+| Treatment 1 (5uM) | Very active swimming larvae | ![](https://github.com/ocattau/ocattau.github.io/blob/master/assets/090822/morph_6uM_5uM_regular.jpg)| ![](https://github.com/ocattau/ocattau.github.io/blob/master/assets/090822/morph_6uM_5uM_auto.jpg) | ![](https://github.com/ocattau/ocattau.github.io/blob/master/assets/090822/morph_6uM_5uM_green.jpg)| 
+| Treatment 2 (10uM) | note | ![](https://github.com/ocattau/ocattau.github.io/blob/master/assets/090822/morph_6uM_10uM_reg.jpg)| NA | ![](https://github.com/ocattau/ocattau.github.io/blob/master/assets/090822/morph_6uM_10uM_green.jpg)|
 
 
 
