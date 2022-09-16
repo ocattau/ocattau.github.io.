@@ -23,4 +23,4 @@ tags: geoduck, oysters, c.gigas, p.generosa
 | Treatment 1 | ![](https://github.com/ocattau/ocattau.github.io/blob/master/assets/091522/stand_control_fluor_reg_10uM_6uM.jpg)| ![](https://github.com/ocattau/ocattau.github.io/blob/master/assets/091522/stand_control_fluor_green_10uM_6uM.jpg) |
 |Treatment 1| ![](https://github.com/ocattau/ocattau.github.io/blob/master/assets/091522/neg_control_10um6um_reg2.jpg)|  ![](https://github.com/ocattau/ocattau.github.io/blob/master/assets/091522/neg_control_10um6um_green2.jpg)| 
 | Treatment 2 | ![](https://github.com/ocattau/ocattau.github.io/blob/master/assets/091522/VASA_control_10uM_reg_x10.jpg)| ![](https://github.com/ocattau/ocattau.github.io/blob/master/assets/091522/VASA_control_10uM_green_x10.jpg)| 
-|Treatment 3|
+|Treatment 3| ![](https://github.com/ocattau/ocattau.github.io/blob/master/assets/091522/VASA_endo_10uM_6uM_reg_x10.jpg) |![](https://github.com/ocattau/ocattau.github.io/blob/master/assets/091522/VASA_endo_10uM_6uM_green_x10.jpg)|
